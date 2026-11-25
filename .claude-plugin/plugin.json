@@ -1,0 +1,22 @@
+{
+  "name": "verify-ai-code-review",
+  "version": "1.0.0",
+  "description": "Cross-AI skill that reviews AI-generated code before merge — hallucinated APIs, fake packages, security holes, missing tests — and returns a merge / fix-first verdict with a checklist.",
+  "author": {
+    "name": "Jahirul",
+    "url": "https://cloudskillhub.com"
+  },
+  "homepage": "https://cloudskillhub.com",
+  "repository": "https://github.com/jahirulofficial0/verify-ai-code-review",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "code-review",
+    "ai-code",
+    "code-quality",
+    "pull-request",
+    "developer-tools",
+    "chatgpt-gpt",
+    "gemini-gem"
+  ]
+}
